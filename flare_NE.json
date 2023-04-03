@@ -9,73 +9,21 @@
     "parent": 1
   },
   {
-    "id": 13,
+    "id": 3,
     "name": "SpanningTree",
     "parent": 2,
     "size": 3416
   },
   {
-    "id": 14,
-    "name": "optimization",
-    "parent": 2
-  },
-  {
-    "id": 3,
-    "name": "Asthma",
-    "parent": 1
-  },
-  {
     "id": 4,
-    "name": "AtD",
-    "parent": 1,
-    "size": 3938
+    "name": "optimization",
+    "parent": 2,
+    "size": 3416
   },
   {
     "id": 5,
-    "name": "CD",
-    "parent": 1,
-    "size": 3812
-  },
-  {
-    "id": 6,
-    "name": "CrD",
-    "parent": 1,
-    "size": 6714
-  },
-  {
-    "id": 7,
-    "name": "Hypothyrodism",
-    "parent": 1,
-    "size": 743
-  },
-  {
-    "id": 8,
-    "name": "UC",
-    "parent": 1
-  },
-  {
-    "id": 9,
-    "name": "Vitiligo",
-    "parent": 1,
-    "size": 3534
-  },
-  {
-    "id": 10,
-    "name": "RA",
-    "parent": 1,
-    "size": 5731
-  },
-  {
-    "id": 11,
-    "name": "SLE",
-    "parent": 1,
-    "size": 7840
-  },
-  {
-    "id": 12,
-    "name": "T1D",
-    "parent": 1,
-    "size": 5914
+    "name": "Asthma",
+    "parent": 2,
+    "size": 3416
   }
-  
 ]

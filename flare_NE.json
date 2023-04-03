@@ -23,11 +23,5 @@
     "id": 5,
     "name": "chr7",
     "parent": 2
-  },
-  {
-    "id": 6,
-    "name": "test",
-    "parent": 3,
-    "size": 500
   }
 ]

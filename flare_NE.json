@@ -11,20 +11,17 @@
   {
     "id": 3,
     "name": "chr1",
-    "parent": 2,
-    "size": 3416
+    "parent": 2
   },
   {
     "id": 4,
     "name": "chr7",
-    "parent": 2,
-    "size": 3416
+    "parent": 2
   },
   {
     "id": 5,
     "name": "chr9",
-    "parent": 2,
-    "size": 7500
+    "parent": 2
   },
   {
     "id": 6,

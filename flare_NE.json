@@ -26,20 +26,19 @@
   {
     "id": 6,
     "name": "chr19",
-    "parent": 2,
-    "size": 1500
+    "parent": 2
   },
   {
     "id": 7,
     "name": "ADAMTS4",
     "parent": 3,
-    "size": 1500
+    "size": 500
   },
   {
     "id": 8,
     "name": "GPR141",
     "parent": 3,
-    "size": 500
+    "size": 5000
   },
   {
     "id": 9,
@@ -49,7 +48,7 @@
   },
   {
     "id": 10,
-    "name": "ELL",
+    "name": "ELL TEST",
     "parent": 3,
     "size": 1500
   },

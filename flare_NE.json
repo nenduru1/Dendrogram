@@ -1,29 +1,40 @@
 [
   {
     "id": 1,
-    "name": "AD"
+    "name": "flare"
   },
   {
     "id": 2,
-    "name": "AR",
+    "name": "analytics",
     "parent": 1
   },
   {
     "id": 3,
-    "name": "SpanningTree",
-    "parent": 2,
-    "size": 3416
+    "name": "cluster",
+    "parent": 2
   },
   {
     "id": 4,
-    "name": "optimization",
-    "parent": 2,
-    "size": 3416
+    "name": "AgglomerativeCluster",
+    "parent": 3,
+    "size": 3938
   },
   {
     "id": 5,
-    "name": "Asthma",
-    "parent": 2,
-    "size": 3416
+    "name": "CommunityStructure",
+    "parent": 3,
+    "size": 3812
+  },
+  {
+    "id": 6,
+    "name": "HierarchicalCluster",
+    "parent": 3,
+    "size": 6714
+  },
+  {
+    "id": 7,
+    "name": "MergeEdge",
+    "parent": 3,
+    "size": 743
   }
 ]

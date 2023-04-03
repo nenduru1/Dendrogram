@@ -14,41 +14,42 @@
     "parent": 2
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "chr7",
     "parent": 2
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "chr9",
     "parent": 2
   },
   {
-    "id": 6,
+    "id": 9,
     "name": "chr19",
-    "parent": 2
+    "parent": 2,
+    "size": 1500
   },
   {
-    "id": 7,
+    "id": 4,
     "name": "ADAMTS4",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 6,
+    "name": "GPR141",
     "parent": 3,
     "size": 500
   },
   {
     "id": 8,
-    "name": "GPR141",
-    "parent": 3,
-    "size": 5000
-  },
-  {
-    "id": 9,
     "name": "SYK",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 10,
-    "name": "ELL TEST",
+    "name": "ELL",
     "parent": 3,
     "size": 1500
   },

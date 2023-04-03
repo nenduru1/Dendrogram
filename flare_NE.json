@@ -23,5 +23,11 @@
     "id": 5,
     "name": "chr7",
     "parent": 2
+  },
+  {
+     "id": 4,
+    "name": "tess",
+    "parent": 3,
+    "size": 1000
   }
 ]

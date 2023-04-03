@@ -14,26 +14,15 @@
     "parent": 2
   },
   {
-    "id": 5,
-    "name": "chr7",
-    "parent": 2
-  },
-  {
-    "id": 7,
-    "name": "chr9",
-    "parent": 2
-  },
-  {
-    "id": 9,
-    "name": "chr19",
-    "parent": 2,
-    "size": 1500
-  },
-  {
     "id": 4,
     "name": "ADAMTS4",
     "parent": 3,
     "size": 1500
+  },
+  {
+    "id": 5,
+    "name": "chr7",
+    "parent": 2
   },
   {
     "id": 6,
@@ -42,9 +31,20 @@
     "size": 500
   },
   {
+    "id": 7,
+    "name": "chr9",
+    "parent": 2
+  },
+  {
     "id": 8,
     "name": "SYK",
     "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 9,
+    "name": "chr19",
+    "parent": 2,
     "size": 1500
   },
   {

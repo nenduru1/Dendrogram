@@ -10,25 +10,98 @@
   },
   {
     "id": 3,
+    "name": "Asthma",
+    "parent": 1
+  },
+  {
+    "id": 4,
+    "name": "AtD",
+    "parent": 1
+  },
+  {
+    "id": 5,
+    "name": "CD",
+    "parent": 1
+  },
+  {
+    "id": 6,
+    "name": "CrD",
+    "parent": 1
+  },
+  {
+    "id": 7,
+    "name": "Hypothyrodism",
+    "parent": 1
+  },
+  {
+    "id": 8,
+    "name": "UC",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "name": "Vitiligo",
+    "parent": 1
+  },
+  {
+    "id": 10,
+    "name": "RA",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "name": "SLE",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "T1D",
+    "parent": 1
+  }
+  {
+    "id": 13,
     "name": "chr1",
     "parent": 2
   },
-    {
-    "id": 4,
+  {
+    "id": 14,
     "name": "chr7",
     "parent": 2
   },
   {
-    "id": 5,
+    "id": 15,
+    "name": "chr9",
+    "parent": 2
+  },
+  {
+    "id": 16,
+    "name": "chr19",
+    "parent": 2
+  },
+  {
+    "id": 17,
     "name": "ADAMTS4",
-    "parent": 3,
+    "parent": 13,
+    "size": 1500
+  },
+  {
+    "id": 18,
+    "name": "GPR141",
+    "parent": 14,
+    "size": 500
+  },
+
+  {
+    "id": 19,
+    "name": "SYK",
+    "parent": 15,
     "size": 1500
   },
 
   {
-     "id": 6,
-    "name": "tess",
-    "parent": 4,
-    "size": 1000
+    "id": 120,
+    "name": "ELL",
+    "parent": 16,
+    "size": 1500
   }
 ]

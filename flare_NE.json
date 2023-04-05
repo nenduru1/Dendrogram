@@ -635,7 +635,106 @@
     "name": "LINC01059",
     "parent": 106,
     "size": 1500
+  },
+  {
+    "_comment":"SLE 9 snps",
+    "id": 114,
+    "name": "chr2 2p14",
+    "parent": 9
+  },
+  {
+    "id": 115,
+    "name": "chr2 2q21.3",
+    "parent": 9
+  },
+  {
+    "id": 116,
+    "name": "chr4 4p15.33",
+    "parent": 9
+  },
+  {
+    "id": 117,
+    "name": "chr5 5q33.1",
+    "parent": 9
+  },
+  {
+    "id": 118,
+    "name": "chr6 6q23.3",
+    "parent": 9
+  },
+  {
+    "id": 119,
+    "name": "chr10 10q21.2",
+    "parent": 9
+  },
+  {
+    "id": 120,
+    "name": "chr16 16p11.2",
+    "parent": 9
+  },
+  {
+    "id": 121,
+    "name": "chr17 17q21.31",
+    "parent": 9
+  },
+  {
+    "id": 122,
+    "name": "chr19 19q13.33",
+    "parent": 9
+  },
+  {
+    "id": 123,
+    "name": "SPRED2",
+    "parent": 114,
+    "size": 1500
+  },
+  {
+    "id": 124,
+    "name": "MGAT5",
+    "parent": 115,
+    "size": 1500
+  },
+  {
+    "id": 125,
+    "name": "AC006296.1",
+    "parent": 116,
+    "size": 1500
+  },
+  {
+    "id": 126,
+    "name": "TNIP1",
+    "parent": 117,
+    "size": 1500
+  },
+  {
+    "id": 127,
+    "name": "RP11-95M15.1",
+    "parent": 118,
+    "size": 1500
+  },
+  {
+    "id": 128,
+    "name": "CCDC6",
+    "parent": 119,
+    "size": 1500
+  },
+  {
+    "id": 129,
+    "name": "ITGAM",
+    "parent": 120,
+    "size": 1500
+  },
+  {
+    "id": 130,
+    "name": "PLEKHM1",
+    "parent": 121,
+    "size": 1500
+  },
+  {
+    "id": 131,
+    "name": "FUT2",
+    "parent": 122,
+    "size": 1500
   }
-
 
 ]

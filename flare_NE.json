@@ -217,7 +217,7 @@
     "id": 39,
     "name": "chr17 17q21.33",
     "parent": 4
-  },
+  }
   {
     "id": 40,
     "name": "RP11-136O12.2",
@@ -255,19 +255,19 @@
   {
     "id": 46,
     "name": "C1orf106",
-    "parent": 37,
+    "parent": 43,
     "size": 1500
   },
   {
     "id": 47,
     "name": "RP11-95M15.1",
-    "parent": 38,
+    "parent": 43,
     "size": 1500
   },
   {
     "id": 48,
     "name": "WNT3",
-    "parent": 39,
+    "parent": 45,
     "size": 1500
   }
 ]

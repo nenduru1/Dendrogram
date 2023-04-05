@@ -270,8 +270,6 @@
     "parent": 45,
     "size": 1500
   },
-
-
   {
     "_comment":"CrD 23 snps",
     "id": 49,
@@ -520,13 +518,6 @@
     "name": "ZC3H7B",
     "parent": 70,
     "size": 1500
-  },
-
-  {
-    "_comment":"Hypo 3 snps"
-    "id": 94,
-    "name": "",
-    "parent": 
   }
 
 ]

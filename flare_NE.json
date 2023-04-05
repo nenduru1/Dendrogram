@@ -236,7 +236,6 @@
     "parent": 39,
     "size": 1500
   },
-
   {
     "_comment":"CD 3 snps",
     "id": 43,
@@ -252,7 +251,7 @@
     "id": 45,
     "name": "chr17 17q21.31",
     "parent": 4
-  }
+  },
   {
     "id": 46,
     "name": "C1orf106",

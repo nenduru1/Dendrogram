@@ -206,19 +206,69 @@
     "_comment":"AtD 3 snps",
     "id": 37,
     "name": "chr8 8q24.13",
-    "parent": 4,
-    "size": 1500
+    "parent": 4
   },
   {
     "id": 38,
     "name": "chr11 11p15.3",
-    "parent": 4,
-    "size": 1500
+    "parent": 4
   },
   {
     "id": 39,
     "name": "chr17 17q21.33",
-    "parent": 4,
+    "parent": 4
+  }
+  {
+    "id": 40,
+    "name": "RP11-136O12.2",
+    "parent": 37,
+    "size": 1500
+  },
+  {
+    "id": 41,
+    "name": "TEAD1",
+    "parent": 38,
+    "size": 1500
+  },
+  {
+    "id": 42,
+    "name": "RP11-81K2.1",
+    "parent": 39,
+    "size": 1500
+  },
+
+  {
+    "_comment":"CD 3 snps",
+    "id": 43,
+    "name": "chr1 1q32.1",
+    "parent": 4
+  },
+  {
+    "id": 44,
+    "name": "chr6 6q23.3",
+    "parent": 4
+  },
+  {
+    "id": 45,
+    "name": "chr17 17q21.31",
+    "parent": 4
+  }
+  {
+    "id": 46,
+    "name": "C1orf106",
+    "parent": 37,
+    "size": 1500
+  },
+  {
+    "id": 47,
+    "name": "RP11-95M15.1",
+    "parent": 38,
+    "size": 1500
+  },
+  {
+    "id": 48,
+    "name": "WNT3",
+    "parent": 39,
     "size": 1500
   }
 ]

@@ -857,6 +857,72 @@
     "name": "SIRPB3P",
     "parent": 142,
     "size": 1500
+  },
+  {
+    "_comment":"UC 6 snps",
+    "id": 155,
+    "name": "chr1 1p36.13",
+    "parent": 11
+  },
+  {
+    "id": 156,
+    "name": "chr1 1q32.1",
+    "parent": 11
+  },
+  {
+    "id": 157,
+    "name": "chr11 11q22.1",
+    "parent": 11
+  },
+  {
+    "id": 158,
+    "name": "chr16 16p12.2",
+    "parent": 11
+  },
+  {
+    "id": 159,
+    "name": "chr19 19q13.32",
+    "parent": 11
+  },
+  {
+    "id": 160,
+    "name": "chr21 21q22.2",
+    "parent": 11
+  },
+  {
+    "id": 161,
+    "name": "",
+    "parent": 155,
+    "size": 1500
+  },
+  {
+    "id": 162,
+    "name": "",
+    "parent": 156,
+    "size": 1500
+  },
+  {
+    "id": 163,
+    "name": "",
+    "parent": 157,
+    "size": 1500
+  },
+  {
+    "id": 164,
+    "name": "",
+    "parent": 158,
+    "size": 1500
+  },
+  {
+    "id": 165,
+    "name": "",
+    "parent": 159,
+    "size": 1500
+  },
+  {
+    "id": 166,
+    "name": "",
+    "parent": 160,
+    "size": 1500
   }
-
 ]

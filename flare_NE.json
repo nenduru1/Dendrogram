@@ -735,6 +735,128 @@
     "name": "FUT2",
     "parent": 122,
     "size": 1500
+  },
+  {
+    "_comment":"T1D 12 snps 11 cytobands",
+    "id": 132,
+    "name": "chr4 4q27",
+    "parent": 10
+  },
+  {
+    "id": 133,
+    "name": "chr6 6q23.3",
+    "parent": 10
+  },
+  {
+    "id": 134,
+    "name": "chr7 7p15.1",
+    "parent": 10
+  },
+  {
+    "id": 135,
+    "name": "chr7 7p12.2",
+    "parent": 10
+  },
+  {
+    "id": 136,
+    "name": "chr11 11p15.5",
+    "parent": 10
+  },
+  {
+    "id": 137,
+    "name": "chr15 15q14",
+    "parent": 10
+  },
+  {
+    "id": 138,
+    "name": "chr16 16p13.13",
+    "parent": 10
+  },
+  {
+    "id": 139,
+    "name": "chr17 17q21.31",
+    "parent": 10
+  },
+  {
+    "id": 140,
+    "name": "chr19 19q13.32",
+    "parent": 10
+  },
+  {
+    "id": 141,
+    "name": "chr19 19q13.33",
+    "parent": 10
+  },
+  {
+    "id": 142,
+    "name": "chr20 20p13",
+    "parent": 10
+  },
+  {
+    "id": 143,
+    "name": "AC097533.1",
+    "parent": 132,
+    "size": 1500
+  },
+  {
+    "id": 144,
+    "name": "RP11-95M15.1",
+    "parent": 133,
+    "size": 1500
+  },
+  {
+    "id": 145,
+    "name": "JAZF1",
+    "parent": 134,
+    "size": 1500
+  },
+  {
+    "id": 146,
+    "name": "RNU6-1091P",
+    "parent": 135,
+    "size": 1500
+  },
+  {
+    "id": 147,
+    "name": "TH",
+    "parent": 136,
+    "size": 1500
+  },
+  {
+    "id": 148,
+    "name": "RASGRP1",
+    "parent": 137,
+    "size": 1500
+  },
+  {
+    "id": 149,
+    "name": "CLEC16A",
+    "parent": 138,
+    "size": 1500
+  },
+  {
+    "id": 150,
+    "name": "MAPT",
+    "parent": 139,
+    "size": 1500
+  },
+  {
+    "id": 151,
+    "name": "PRKD2",
+    "parent": 140,
+    "size": 1500
+  },
+  {
+    "id": 153,
+    "name": "RASIP1",
+    "parent": 141,
+    "size": 1500
+  },
+  {
+    "id": 154,
+    "name": "SIRPB3P",
+    "parent": 142,
+    "size": 1500
   }
 
 ]

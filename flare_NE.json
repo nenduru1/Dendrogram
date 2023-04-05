@@ -891,38 +891,94 @@
   },
   {
     "id": 161,
-    "name": "",
+    "name": "OTUD3",
     "parent": 155,
     "size": 1500
   },
   {
     "id": 162,
-    "name": "",
+    "name": "C1orf106",
     "parent": 156,
     "size": 1500
   },
   {
     "id": 163,
-    "name": "",
+    "name": "CNTN5",
     "parent": 157,
     "size": 1500
   },
   {
     "id": 164,
-    "name": "",
+    "name": "PRKCB",
     "parent": 158,
     "size": 1500
   },
   {
     "id": 165,
-    "name": "",
+    "name": "PRKD2",
     "parent": 159,
     "size": 1500
   },
   {
     "id": 166,
-    "name": "",
+    "name": "RPL23AP12",
     "parent": 160,
     "size": 1500
+  },
+  {
+    "_comment":"Vitiligo 5 snps",
+    "id": 167,
+    "name": "chr1 1q23.1",
+    "parent": 12
+  },
+  {
+    "id": 168,
+    "name": "chr4 4p14",
+    "parent": 12
+  },
+  {
+    "id": 169,
+    "name": "chr5 5q31.3",
+    "parent": 12
+  },
+  {
+    "id": 170,
+    "name": "chr7 7p12.2",
+    "parent": 12
+  },
+  {
+    "id": 171,
+    "name": "chr22 22q13.2",
+    "parent": 12
+  },
+  {
+    "id": 172,
+    "name": "FCRL2",
+    "parent": 167,
+    "size": 500
+  },
+  {
+    "id": 173,
+    "name": "AC195454.1",
+    "parent": 168,
+    "size": 500
+  },
+  {
+    "id": 174,
+    "name": "ARAP3",
+    "parent": 169,
+    "size": 500
+  },
+  {
+    "id": 175,
+    "name": "AC020743.4",
+    "parent": 170,
+    "size": 500
+  },
+  {
+    "id": 176,
+    "name": "Y_RNA",
+    "parent": 171,
+    "size": 500
   }
 ]

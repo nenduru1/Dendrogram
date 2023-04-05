@@ -35,29 +35,30 @@
   },
   {
     "id": 8,
-    "name": "UC",
-    "parent": 1
-  },
-  {
-    "id": 9,
-    "name": "Vitiligo",
-    "parent": 1
-  },
-  {
-    "id": 10,
     "name": "RA",
     "parent": 1
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "SLE",
     "parent": 1
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "T1D",
     "parent": 1
   },
+  {
+    "id": 11,
+    "name": "UC",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "Vitiligo",
+    "parent": 1
+  },
+
   {
     "id": 13,
     "name": "chr1 1q23.3",
@@ -555,6 +556,86 @@
     "name": "SPI1",
     "parent": 96,
     "size": 1500
+  },
+
+  {
+    "_comment":"RA 7 snps",
+    "id": 100,
+    "name": "chr1 1q23.1",
+    "parent": 8
+  },
+  {
+    "id": 101,
+    "name": "chr1 1q32.1",
+    "parent": 8
+  },
+  {
+    "id": 102,
+    "name": "chr6 6p21.31",
+    "parent": 8
+  },
+  {
+    "id": 103,
+    "name": "chr6 6q23.3",
+    "parent": 8
+  },
+  {
+    "id": 104,
+    "name": "chr7 7p15.1",
+    "parent": 8
+  },
+  {
+    "id": 105,
+    "name": "chr10 10q23.1",
+    "parent": 8
+  },
+  {
+    "id": 106,
+    "name": "chr11 11q24.1",
+    "parent": 8
+  },
+  {
+    "id": 107,
+    "name": "RP11-367J7.4",
+    "parent": 100,
+    "size": 1500
+  },
+  {
+    "id": 108,
+    "name": "C1orf106",
+    "parent": 101,
+    "size": 1500
+  },
+  {
+    "id": 109,
+    "name": "SNRPC",
+    "parent": 102,
+    "size": 1500
+  },
+  {
+    "id": 110,
+    "name": "RP11-95M15.1",
+    "parent": 103,
+    "size": 1500
+  },
+  {
+    "id": 111,
+    "name": "JAZF1",
+    "parent": 104,
+    "size": 1500
+  },
+  {
+    "id": 112,
+    "name": "TSPAN14",
+    "parent": 105,
+    "size": 1500
+  },
+  {
+    "id": 113,
+    "name": "LINC01059",
+    "parent": 106,
+    "size": 1500
   }
+
 
 ]

@@ -83,7 +83,7 @@
     "id": 17,
     "Gname": "ADAMTS4",
     "parent": 13,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 18,
@@ -96,14 +96,14 @@
     "id": 19,
     "Gname": "SYK",
     "parent": 15,
-    "size": 1500
+    "size": 50
   },
 
   {
     "id": 20,
     "Gname": "ELL",
     "parent": 16,
-    "size": 1500
+    "size": 50
   },
  
   {
@@ -111,97 +111,97 @@
     "id": 21,
     "Sname": "chr1 1q23.2",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 22,
     "Sname": "chr5 5q22.1",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 23,
     "Sname": "chr5 5q31.3",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 24,
     "Sname": "chr7 7p15.1",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 25,
     "Sname": "chr10 10q23.1",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 26,
     "Sname": "chr11 11q14.2",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 27,
     "Sname": "chr17 17q21.33",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 28,
     "Sname": "chr22 22q13.2",
     "parent": 3,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 29,
     "Gname": "ADAMTS4",
     "parent": 21,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 30,
     "Gname": "AC010468.3",
     "parent": 22,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 31,
     "Gname": "HBEGF",
     "parent": 23,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 32,
     "Gname": "JAZF1",
     "parent": 24,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 33,
     "Gname": "TSPAN14",
     "parent": 25,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 34,
     "Gname": "RNU6-560P",
     "parent": 26,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 35,
     "Gname": "ZNF652",
     "parent": 27,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 36,
     "Gname": "Y_RNA",
     "parent": 28,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"AtD 3 snps",
@@ -223,19 +223,19 @@
     "id": 40,
     "Sname": "RP11-136O12.2",
     "parent": 37,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 41,
     "Sname": "TEAD1",
     "parent": 38,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 42,
     "Sname": "RP11-81K2.1",
     "parent": 39,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"CD 3 snps",
@@ -257,19 +257,19 @@
     "id": 46,
     "Gname": "C1orf106",
     "parent": 43,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 47,
     "Gname": "RP11-95M15.1",
     "parent": 44,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 48,
     "Gname": "WNT3",
     "parent": 45,
-    "size": 1500
+    "size": 50
   },
 
 
@@ -388,139 +388,139 @@
     "id": 71,
     "Gname": "C1orf106",
     "parent": 49,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 72,
     "Gname": "THADA",
     "parent": 50,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 73,
     "Gname": "BIN1",
     "parent": 51,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 74,
     "Gname": "AC195454.1",
     "parent": 52,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 75,
     "Gname": "CCDC112",
     "parent": 53,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 76,
     "Gname": "LYRM7",
     "parent": 54,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 77,
     "Gname": "JAZF1",
     "parent": 55,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 78,
     "Gname": "AC020743.3",
     "parent": 56,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 79,
     "Gname": "PTK2B",
     "parent": 57,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 80,
     "Gname": "RP11-503E24.3",
     "parent": 58,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 81,
     "Gname": "RP11-136O12.2",
     "parent": 59,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 82,
     "Gname": "PLEC",
     "parent": 60,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 83,
     "Gname": "IPMK",
     "parent": 61,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 84,
     "Gname": "TSPAN14",
     "parent": 62,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 85,
     "Gname": "SH2D4B",
     "parent": 62,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 86,
     "Gname": "TRMT61A",
     "parent": 63,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 87,
     "Gname": "DHODH",
     "parent": 64,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 88,
     "Gname": "KANSL1",
     "parent": 65,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 89,
     "Gname": "ELL",
     "parent": 66,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 90,
     "Gname": "RASIP1",
     "parent": 67,
-    "size": 1500
+    "size": 50
   },  
   {
     "id": 91,
     "Gname": "CASS4",
     "parent": 68,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 92,
     "Gname": "RPL23AP12",
     "parent": 69,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 93,
     "Gname": "ZC3H7B",
     "parent": 70,
-    "size": 1500
+    "size": 50
   },
 
   {
@@ -543,19 +543,19 @@
     "id": 97,
     "Gname": "AC009961.3",
     "parent": 94,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 98,
     "Gname": "AC195454.1",
     "parent": 95,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 99,
     "Gname": "SPI1",
     "parent": 96,
-    "size": 1500
+    "size": 50
   },
 
   {
@@ -598,43 +598,43 @@
     "id": 107,
     "Gname": "RP11-367J7.4",
     "parent": 100,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 108,
     "Gname": "C1orf106",
     "parent": 101,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 109,
     "Gname": "SNRPC",
     "parent": 102,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 110,
     "Gname": "RP11-95M15.1",
     "parent": 103,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 111,
     "Gname": "JAZF1",
     "parent": 104,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 112,
     "Gname": "TSPAN14",
     "parent": 105,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 113,
     "Gname": "LINC01059",
     "parent": 106,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"SLE 9 snps",
@@ -686,55 +686,55 @@
     "id": 123,
     "Gname": "SPRED2",
     "parent": 114,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 124,
     "Gname": "MGAT5",
     "parent": 115,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 125,
     "Gname": "AC006296.1",
     "parent": 116,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 126,
     "Gname": "TNIP1",
     "parent": 117,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 127,
     "Gname": "RP11-95M15.1",
     "parent": 118,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 128,
     "Gname": "CCDC6",
     "parent": 119,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 129,
     "Gname": "ITGAM",
     "parent": 120,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 130,
     "Gname": "PLEKHM1",
     "parent": 121,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 131,
     "Gname": "FUT2",
     "parent": 122,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"T1D 12 snps 11 cytobands",
@@ -796,67 +796,67 @@
     "id": 143,
     "Sname": "AC097533.1",
     "parent": 132,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 144,
     "Sname": "RP11-95M15.1",
     "parent": 133,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 145,
     "Gname": "JAZF1",
     "parent": 134,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 146,
     "Gname": "RNU6-1091P",
     "parent": 135,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 147,
     "Gname": "TH",
     "parent": 136,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 148,
     "Gname": "RASGRP1",
     "parent": 137,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 149,
     "Gname": "CLEC16A",
     "parent": 138,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 150,
     "Gname": "MAPT",
     "parent": 139,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 151,
     "Gname": "PRKD2",
     "parent": 140,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 153,
     "Gname": "RASIP1",
     "parent": 141,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 154,
     "Gname": "SIRPB3P",
     "parent": 142,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"UC 6 snps",
@@ -893,37 +893,37 @@
     "id": 161,
     "Gname": "OTUD3",
     "parent": 155,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 162,
     "Gname": "C1orf106",
     "parent": 156,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 163,
     "Gname": "CNTN5",
     "parent": 157,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 164,
     "Gname": "PRKCB",
     "parent": 158,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 165,
     "Gname": "PRKD2",
     "parent": 159,
-    "size": 1500
+    "size": 50
   },
   {
     "id": 166,
     "Gname": "RPL23AP12",
     "parent": 160,
-    "size": 1500
+    "size": 50
   },
   {
     "_comment":"Vitiligo 5 snps",

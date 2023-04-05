@@ -60,22 +60,22 @@
   },
   {
     "id": 13,
-    "name": "chr1",
+    "name": "chr1 1q23.3",
     "parent": 2
   },
   {
     "id": 14,
-    "name": "chr7",
+    "name": "chr7 7p14.1",
     "parent": 2
   },
   {
     "id": 15,
-    "name": "chr9",
+    "name": "chr9 9q22.2",
     "parent": 2
   },
   {
     "id": 16,
-    "name": "chr19",
+    "name": "chr19 19p13.11",
     "parent": 2
   },
   {
@@ -102,6 +102,123 @@
     "id": 20,
     "name": "ELL",
     "parent": 16,
+    "size": 1500
+  },
+ 
+  {
+    "_comment":"Asthma 8 snps",
+    "id": 21,
+    "name": "chr1 1q23.2",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 22,
+    "name": "chr5 5q22.1",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 23,
+    "name": "chr5 5q31.3",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 24,
+    "name": "chr7 7p15.1",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 25,
+    "name": "chr10 10q23.1",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 26,
+    "name": "chr11 11q14.2",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 27,
+    "name": "chr17 17q21.33",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 28,
+    "name": "chr22 22q13.2",
+    "parent": 3,
+    "size": 1500
+  },
+  {
+    "id": 29,
+    "name": "ADAMTS4",
+    "parent": 21,
+    "size": 1500
+  },
+  {
+    "id": 30,
+    "name": "AC010468.3",
+    "parent": 22,
+    "size": 1500
+  },
+  {
+    "id": 31,
+    "name": "HBEGF",
+    "parent": 23,
+    "size": 1500
+  },
+  {
+    "id": 32,
+    "name": "JAZF1",
+    "parent": 24,
+    "size": 1500
+  },
+  {
+    "id": 33,
+    "name": "TSPAN14",
+    "parent": 25,
+    "size": 1500
+  },
+  {
+    "id": 34,
+    "name": "RNU6-560P",
+    "parent": 26,
+    "size": 1500
+  },
+  {
+    "id": 35,
+    "name": "ZNF652",
+    "parent": 27,
+    "size": 1500
+  },
+  {
+    "id": 36,
+    "name": "Y_RNA",
+    "parent": 28,
+    "size": 1500
+  },
+  {
+    "_comment":"AtD 3 snps",
+    "id": 37,
+    "name": "chr8 8q24.13",
+    "parent": 4,
+    "size": 1500
+  },
+  {
+    "id": 38,
+    "name": "chr11 11p15.3",
+    "parent": 4,
+    "size": 1500
+  },
+  {
+    "id": 39,
+    "name": "chr17 17q21.33",
+    "parent": 4,
     "size": 1500
   }
 ]

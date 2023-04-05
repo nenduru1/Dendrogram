@@ -240,17 +240,17 @@
     "_comment":"CD 3 snps",
     "id": 43,
     "name": "chr1 1q32.1",
-    "parent": 4
+    "parent": 5
   },
   {
     "id": 44,
     "name": "chr6 6q23.3",
-    "parent": 4
+    "parent": 5
   },
   {
     "id": 45,
     "name": "chr17 17q21.31",
-    "parent": 4
+    "parent": 5
   },
   {
     "id": 46,
@@ -270,6 +270,8 @@
     "parent": 45,
     "size": 1500
   },
+
+
   {
     "_comment":"CrD 23 snps",
     "id": 49,
@@ -517,6 +519,41 @@
     "id": 93,
     "name": "ZC3H7B",
     "parent": 70,
+    "size": 1500
+  },
+
+  {
+    "_comment":"Hypo 3 snps",
+    "id": 94,
+    "name": "chr2 2q24.2",
+    "parent": 7
+  },
+  {
+    "id": 95,
+    "name": "chr4 4p14",
+    "parent": 7
+  },
+  {
+    "id": 96,
+    "name": "chr11 11p11.2",
+    "parent": 7
+  },
+  {
+    "id": 97,
+    "name": "AC009961.3",
+    "parent": 94,
+    "size": 1500
+  },
+  {
+    "id": 98,
+    "name": "AC195454.1",
+    "parent": 95,
+    "size": 1500
+  },
+  {
+    "id": 99,
+    "name": "SPI1",
+    "parent": 96,
     "size": 1500
   }
 

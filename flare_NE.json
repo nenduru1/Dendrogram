@@ -386,116 +386,147 @@
   {
     "id": 71,
     "name": "C1orf106",
-    "parent": 49
+    "parent": 49,
+    "size": 1500
   },
   {
     "id": 72,
     "name": "THADA",
-    "parent": 50
+    "parent": 50,
+    "size": 1500
   },
   {
     "id": 73,
     "name": "BIN1",
-    "parent": 51
+    "parent": 51,
+    "size": 1500
   },
   {
     "id": 74,
     "name": "AC195454.1",
-    "parent": 52
+    "parent": 52,
+    "size": 1500
   },
   {
     "id": 75,
     "name": "CCDC112",
-    "parent": 53
+    "parent": 53,
+    "size": 1500
   },
   {
     "id": 76,
     "name": "LYRM7",
-    "parent": 54
+    "parent": 54,
+    "size": 1500
   },
   {
     "id": 77,
     "name": "JAZF1",
-    "parent": 55
+    "parent": 55,
+    "size": 1500
   },
   {
     "id": 78,
     "name": "AC020743.3",
-    "parent": 56
+    "parent": 56,
+    "size": 1500
   },
   {
     "id": 79,
     "name": "PTK2B",
-    "parent": 57
+    "parent": 57,
+    "size": 1500
   },
   {
     "id": 80,
     "name": "RP11-503E24.3",
-    "parent": 58
+    "parent": 58,
+    "size": 1500
   },
   {
     "id": 81,
     "name": "RP11-136O12.2",
-    "parent": 59
+    "parent": 59,
+    "size": 1500
   },
   {
     "id": 82,
     "name": "PLEC",
-    "parent": 60
+    "parent": 60,
+    "size": 1500
   },
   {
     "id": 83,
     "name": "IPMK",
-    "parent": 61
+    "parent": 61,
+    "size": 1500
   },
   {
     "id": 84,
     "name": "TSPAN14",
-    "parent": 62
+    "parent": 62,
+    "size": 1500
   },
   {
     "id": 85,
     "name": "SH2D4B",
-    "parent": 62
+    "parent": 62,
+    "size": 1500
   },
   {
     "id": 86,
     "name": "TRMT61A",
-    "parent": 63
+    "parent": 63,
+    "size": 1500
   },
   {
     "id": 87,
     "name": "DHODH",
-    "parent": 64
+    "parent": 64,
+    "size": 1500
   },
   {
     "id": 88,
     "name": "KANSL1",
-    "parent": 65
+    "parent": 65,
+    "size": 1500
   },
   {
     "id": 89,
     "name": "ELL",
-    "parent": 66
+    "parent": 66,
+    "size": 1500
   },
   {
     "id": 90,
     "name": "RASIP1",
-    "parent": 67
+    "parent": 67,
+    "size": 1500
   },  
   {
     "id": 91,
     "name": "CASS4",
-    "parent": 68
+    "parent": 68,
+    "size": 1500
   },
   {
     "id": 92,
     "name": "RPL23AP12",
-    "parent": 69
+    "parent": 69,
+    "size": 1500
   },
   {
     "id": 93,
     "name": "ZC3H7B",
-    "parent": 70
+    "parent": 70,
+    "size": 1500
+  },
+
+  {
+    "_comment":"Hypo 3 snps"
+    "id": 94,
+    "name": "",
+    "parent": 
   }
+
 ]

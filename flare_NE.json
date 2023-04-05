@@ -1,8 +1,11 @@
+
+
+
+
 [
   {
     "id": 1,
-    "name": "AD",
-    "fontWeight": "bold"
+    "name": "AD"
   },
   {
     "id": 2,
@@ -62,47 +65,47 @@
 
   {
     "id": 13,
-    "name": "chr1 1q23.3",
+    "Gname": "chr1 1q23.3",
     "parent": 2
   },
   {
     "id": 14,
-    "name": "chr7 7p14.1",
+    "Gname": "chr7 7p14.1",
     "parent": 2
   },
   {
     "id": 15,
-    "name": "chr9 9q22.2",
+    "Gname": "chr9 9q22.2",
     "parent": 2
   },
   {
     "id": 16,
-    "name": "chr19 19p13.11",
+    "Gname": "chr19 19p13.11",
     "parent": 2
   },
   {
     "id": 17,
-    "name": "ADAMTS4",
+    "Gname": "ADAMTS4",
     "parent": 13,
     "size": 1500
   },
   {
     "id": 18,
-    "name": "GPR141",
+    "Gname": "GPR141",
     "parent": 14,
     "size": 500
   },
 
   {
     "id": 19,
-    "name": "SYK",
+    "Gname": "SYK",
     "parent": 15,
     "size": 1500
   },
 
   {
     "id": 20,
-    "name": "ELL",
+    "Gname": "ELL",
     "parent": 16,
     "size": 1500
   },
@@ -110,165 +113,165 @@
   {
     "_comment":"Asthma 8 snps",
     "id": 21,
-    "name": "chr1 1q23.2",
+    "Gname": "chr1 1q23.2",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 22,
-    "name": "chr5 5q22.1",
+    "Gname": "chr5 5q22.1",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 23,
-    "name": "chr5 5q31.3",
+    "Gname": "chr5 5q31.3",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 24,
-    "name": "chr7 7p15.1",
+    "Gname": "chr7 7p15.1",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 25,
-    "name": "chr10 10q23.1",
+    "Gname": "chr10 10q23.1",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 26,
-    "name": "chr11 11q14.2",
+    "Gname": "chr11 11q14.2",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 27,
-    "name": "chr17 17q21.33",
+    "Gname": "chr17 17q21.33",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 28,
-    "name": "chr22 22q13.2",
+    "Gname": "chr22 22q13.2",
     "parent": 3,
     "size": 1500
   },
   {
     "id": 29,
-    "name": "ADAMTS4",
+    "Gname": "ADAMTS4",
     "parent": 21,
     "size": 1500
   },
   {
     "id": 30,
-    "name": "AC010468.3",
+    "Gname": "AC010468.3",
     "parent": 22,
     "size": 1500
   },
   {
     "id": 31,
-    "name": "HBEGF",
+    "Gname": "HBEGF",
     "parent": 23,
     "size": 1500
   },
   {
     "id": 32,
-    "name": "JAZF1",
+    "Gname": "JAZF1",
     "parent": 24,
     "size": 1500
   },
   {
     "id": 33,
-    "name": "TSPAN14",
+    "Gname": "TSPAN14",
     "parent": 25,
     "size": 1500
   },
   {
     "id": 34,
-    "name": "RNU6-560P",
+    "Gname": "RNU6-560P",
     "parent": 26,
     "size": 1500
   },
   {
     "id": 35,
-    "name": "ZNF652",
+    "Gname": "ZNF652",
     "parent": 27,
     "size": 1500
   },
   {
     "id": 36,
-    "name": "Y_RNA",
+    "Gname": "Y_RNA",
     "parent": 28,
     "size": 1500
   },
   {
     "_comment":"AtD 3 snps",
     "id": 37,
-    "name": "chr8 8q24.13",
+    "Gname": "chr8 8q24.13",
     "parent": 4
   },
   {
     "id": 38,
-    "name": "chr11 11p15.3",
+    "Gname": "chr11 11p15.3",
     "parent": 4
   },
   {
     "id": 39,
-    "name": "chr17 17q21.33",
+    "Gname": "chr17 17q21.33",
     "parent": 4
   },
   {
     "id": 40,
-    "name": "RP11-136O12.2",
+    "Gname": "RP11-136O12.2",
     "parent": 37,
     "size": 1500
   },
   {
     "id": 41,
-    "name": "TEAD1",
+    "Gname": "TEAD1",
     "parent": 38,
     "size": 1500
   },
   {
     "id": 42,
-    "name": "RP11-81K2.1",
+    "Gname": "RP11-81K2.1",
     "parent": 39,
     "size": 1500
   },
   {
     "_comment":"CD 3 snps",
     "id": 43,
-    "name": "chr1 1q32.1",
+    "Gname": "chr1 1q32.1",
     "parent": 5
   },
   {
     "id": 44,
-    "name": "chr6 6q23.3",
+    "Gname": "chr6 6q23.3",
     "parent": 5
   },
   {
     "id": 45,
-    "name": "chr17 17q21.31",
+    "Gname": "chr17 17q21.31",
     "parent": 5
   },
   {
     "id": 46,
-    "name": "C1orf106",
+    "Gname": "C1orf106",
     "parent": 43,
     "size": 1500
   },
   {
     "id": 47,
-    "name": "RP11-95M15.1",
+    "Gname": "RP11-95M15.1",
     "parent": 44,
     "size": 1500
   },
   {
     "id": 48,
-    "name": "WNT3",
+    "Gname": "WNT3",
     "parent": 45,
     "size": 1500
   },
@@ -277,249 +280,249 @@
   {
     "_comment":"CrD 23 snps",
     "id": 49,
-    "name": "chr1 1q32.1",
+    "Gname": "chr1 1q32.1",
     "parent": 6
   },
   {
     "id": 50,
-    "name": "chr2 2p21",
+    "Gname": "chr2 2p21",
     "parent": 6
   },
   {
     "id": 51,
-    "name": "chr2 2q14.3",
+    "Gname": "chr2 2q14.3",
     "parent": 6
   },
   {
     "id": 52,
-    "name": "chr4 4p14",
+    "Gname": "chr4 4p14",
     "parent": 6
   },
   {
     "id": 53,
-    "name": "chr5 5q22.3",
+    "Gname": "chr5 5q22.3",
     "parent": 6
   },
   {
     "id": 54,
-    "name": "chr5 5q23.3",
+    "Gname": "chr5 5q23.3",
     "parent": 6
   },
   {
     "id": 55,
-    "name": "chr7 7p15.1",
+    "Gname": "chr7 7p15.1",
     "parent": 6
   },
   {
     "id": 56,
-    "name": "chr7 7p12.2",
+    "Gname": "chr7 7p12.2",
     "parent": 6
   },
   {
     "id": 57,
-    "name": "chr8 8p21.2",
+    "Gname": "chr8 8p21.2",
     "parent": 6
   },
   {
     "id": 58,
-    "name": "chr8 8p11.21",
+    "Gname": "chr8 8p11.21",
     "parent": 6
   },
   {
     "id": 59,
-    "name": "chr8 8q24.13",
+    "Gname": "chr8 8q24.13",
     "parent": 6
   },
   {
     "id": 60,
-    "name": "chr8 8q24.3",
+    "Gname": "chr8 8q24.3",
     "parent": 6
   },
   {
     "id": 61,
-    "name": "chr10 10q21.1",
+    "Gname": "chr10 10q21.1",
     "parent": 6
   },
   {
     "id": 62,
-    "name": "chr10 10q23.1",
+    "Gname": "chr10 10q23.1",
     "parent": 6
   },
   {
     "id": 63,
-    "name": "chr14 14q32.33",
+    "Gname": "chr14 14q32.33",
     "parent": 6
   },
   {
     "id": 64,
-    "name": "chr16 16q22.2",
+    "Gname": "chr16 16q22.2",
     "parent": 6
   },
   {
     "id": 65,
-    "name": "chr17 17q21.31",
+    "Gname": "chr17 17q21.31",
     "parent": 6
   },
   {
     "id": 66,
-    "name": "chr19 19p13.11",
+    "Gname": "chr19 19p13.11",
     "parent": 6
   },
   {
     "id": 67,
-    "name": "chr19 19q13.33",
+    "Gname": "chr19 19q13.33",
     "parent": 6
   },
   {
     "id": 68,
-    "name": "chr20 20q13.2",
+    "Gname": "chr20 20q13.2",
     "parent": 6
   },
   {
     "id": 69,
-    "name": "chr21 21q22.2",
+    "Gname": "chr21 21q22.2",
     "parent": 6
   },
   {
     "id": 70,
-    "name": "chr22 22q13.2",
+    "Gname": "chr22 22q13.2",
     "parent": 6
   },
   {
     "id": 71,
-    "name": "C1orf106",
+    "Gname": "C1orf106",
     "parent": 49,
     "size": 1500
   },
   {
     "id": 72,
-    "name": "THADA",
+    "Gname": "THADA",
     "parent": 50,
     "size": 1500
   },
   {
     "id": 73,
-    "name": "BIN1",
+    "Gname": "BIN1",
     "parent": 51,
     "size": 1500
   },
   {
     "id": 74,
-    "name": "AC195454.1",
+    "Gname": "AC195454.1",
     "parent": 52,
     "size": 1500
   },
   {
     "id": 75,
-    "name": "CCDC112",
+    "Gname": "CCDC112",
     "parent": 53,
     "size": 1500
   },
   {
     "id": 76,
-    "name": "LYRM7",
+    "Gname": "LYRM7",
     "parent": 54,
     "size": 1500
   },
   {
     "id": 77,
-    "name": "JAZF1",
+    "Gname": "JAZF1",
     "parent": 55,
     "size": 1500
   },
   {
     "id": 78,
-    "name": "AC020743.3",
+    "Gname": "AC020743.3",
     "parent": 56,
     "size": 1500
   },
   {
     "id": 79,
-    "name": "PTK2B",
+    "Gname": "PTK2B",
     "parent": 57,
     "size": 1500
   },
   {
     "id": 80,
-    "name": "RP11-503E24.3",
+    "Gname": "RP11-503E24.3",
     "parent": 58,
     "size": 1500
   },
   {
     "id": 81,
-    "name": "RP11-136O12.2",
+    "Gname": "RP11-136O12.2",
     "parent": 59,
     "size": 1500
   },
   {
     "id": 82,
-    "name": "PLEC",
+    "Gname": "PLEC",
     "parent": 60,
     "size": 1500
   },
   {
     "id": 83,
-    "name": "IPMK",
+    "Gname": "IPMK",
     "parent": 61,
     "size": 1500
   },
   {
     "id": 84,
-    "name": "TSPAN14",
+    "Gname": "TSPAN14",
     "parent": 62,
     "size": 1500
   },
   {
     "id": 85,
-    "name": "SH2D4B",
+    "Gname": "SH2D4B",
     "parent": 62,
     "size": 1500
   },
   {
     "id": 86,
-    "name": "TRMT61A",
+    "Gname": "TRMT61A",
     "parent": 63,
     "size": 1500
   },
   {
     "id": 87,
-    "name": "DHODH",
+    "Gname": "DHODH",
     "parent": 64,
     "size": 1500
   },
   {
     "id": 88,
-    "name": "KANSL1",
+    "Gname": "KANSL1",
     "parent": 65,
     "size": 1500
   },
   {
     "id": 89,
-    "name": "ELL",
+    "Gname": "ELL",
     "parent": 66,
     "size": 1500
   },
   {
     "id": 90,
-    "name": "RASIP1",
+    "Gname": "RASIP1",
     "parent": 67,
     "size": 1500
   },  
   {
     "id": 91,
-    "name": "CASS4",
+    "Gname": "CASS4",
     "parent": 68,
     "size": 1500
   },
   {
     "id": 92,
-    "name": "RPL23AP12",
+    "Gname": "RPL23AP12",
     "parent": 69,
     "size": 1500
   },
   {
     "id": 93,
-    "name": "ZC3H7B",
+    "Gname": "ZC3H7B",
     "parent": 70,
     "size": 1500
   },
@@ -527,34 +530,34 @@
   {
     "_comment":"Hypo 3 snps",
     "id": 94,
-    "name": "chr2 2q24.2",
+    "Gname": "chr2 2q24.2",
     "parent": 7
   },
   {
     "id": 95,
-    "name": "chr4 4p14",
+    "Gname": "chr4 4p14",
     "parent": 7
   },
   {
     "id": 96,
-    "name": "chr11 11p11.2",
+    "Gname": "chr11 11p11.2",
     "parent": 7
   },
   {
     "id": 97,
-    "name": "AC009961.3",
+    "Gname": "AC009961.3",
     "parent": 94,
     "size": 1500
   },
   {
     "id": 98,
-    "name": "AC195454.1",
+    "Gname": "AC195454.1",
     "parent": 95,
     "size": 1500
   },
   {
     "id": 99,
-    "name": "SPI1",
+    "Gname": "SPI1",
     "parent": 96,
     "size": 1500
   },
@@ -562,423 +565,423 @@
   {
     "_comment":"RA 7 snps",
     "id": 100,
-    "name": "chr1 1q23.1",
+    "Gname": "chr1 1q23.1",
     "parent": 8
   },
   {
     "id": 101,
-    "name": "chr1 1q32.1",
+    "Gname": "chr1 1q32.1",
     "parent": 8
   },
   {
     "id": 102,
-    "name": "chr6 6p21.31",
+    "Gname": "chr6 6p21.31",
     "parent": 8
   },
   {
     "id": 103,
-    "name": "chr6 6q23.3",
+    "Gname": "chr6 6q23.3",
     "parent": 8
   },
   {
     "id": 104,
-    "name": "chr7 7p15.1",
+    "Gname": "chr7 7p15.1",
     "parent": 8
   },
   {
     "id": 105,
-    "name": "chr10 10q23.1",
+    "Gname": "chr10 10q23.1",
     "parent": 8
   },
   {
     "id": 106,
-    "name": "chr11 11q24.1",
+    "Gname": "chr11 11q24.1",
     "parent": 8
   },
   {
     "id": 107,
-    "name": "RP11-367J7.4",
+    "Gname": "RP11-367J7.4",
     "parent": 100,
     "size": 1500
   },
   {
     "id": 108,
-    "name": "C1orf106",
+    "Gname": "C1orf106",
     "parent": 101,
     "size": 1500
   },
   {
     "id": 109,
-    "name": "SNRPC",
+    "Gname": "SNRPC",
     "parent": 102,
     "size": 1500
   },
   {
     "id": 110,
-    "name": "RP11-95M15.1",
+    "Gname": "RP11-95M15.1",
     "parent": 103,
     "size": 1500
   },
   {
     "id": 111,
-    "name": "JAZF1",
+    "Gname": "JAZF1",
     "parent": 104,
     "size": 1500
   },
   {
     "id": 112,
-    "name": "TSPAN14",
+    "Gname": "TSPAN14",
     "parent": 105,
     "size": 1500
   },
   {
     "id": 113,
-    "name": "LINC01059",
+    "Gname": "LINC01059",
     "parent": 106,
     "size": 1500
   },
   {
     "_comment":"SLE 9 snps",
     "id": 114,
-    "name": "chr2 2p14",
+    "Gname": "chr2 2p14",
     "parent": 9
   },
   {
     "id": 115,
-    "name": "chr2 2q21.3",
+    "Gname": "chr2 2q21.3",
     "parent": 9
   },
   {
     "id": 116,
-    "name": "chr4 4p15.33",
+    "Gname": "chr4 4p15.33",
     "parent": 9
   },
   {
     "id": 117,
-    "name": "chr5 5q33.1",
+    "Gname": "chr5 5q33.1",
     "parent": 9
   },
   {
     "id": 118,
-    "name": "chr6 6q23.3",
+    "Gname": "chr6 6q23.3",
     "parent": 9
   },
   {
     "id": 119,
-    "name": "chr10 10q21.2",
+    "Gname": "chr10 10q21.2",
     "parent": 9
   },
   {
     "id": 120,
-    "name": "chr16 16p11.2",
+    "Gname": "chr16 16p11.2",
     "parent": 9
   },
   {
     "id": 121,
-    "name": "chr17 17q21.31",
+    "Gname": "chr17 17q21.31",
     "parent": 9
   },
   {
     "id": 122,
-    "name": "chr19 19q13.33",
+    "Gname": "chr19 19q13.33",
     "parent": 9
   },
   {
     "id": 123,
-    "name": "SPRED2",
+    "Gname": "SPRED2",
     "parent": 114,
     "size": 1500
   },
   {
     "id": 124,
-    "name": "MGAT5",
+    "Gname": "MGAT5",
     "parent": 115,
     "size": 1500
   },
   {
     "id": 125,
-    "name": "AC006296.1",
+    "Gname": "AC006296.1",
     "parent": 116,
     "size": 1500
   },
   {
     "id": 126,
-    "name": "TNIP1",
+    "Gname": "TNIP1",
     "parent": 117,
     "size": 1500
   },
   {
     "id": 127,
-    "name": "RP11-95M15.1",
+    "Gname": "RP11-95M15.1",
     "parent": 118,
     "size": 1500
   },
   {
     "id": 128,
-    "name": "CCDC6",
+    "Gname": "CCDC6",
     "parent": 119,
     "size": 1500
   },
   {
     "id": 129,
-    "name": "ITGAM",
+    "Gname": "ITGAM",
     "parent": 120,
     "size": 1500
   },
   {
     "id": 130,
-    "name": "PLEKHM1",
+    "Gname": "PLEKHM1",
     "parent": 121,
     "size": 1500
   },
   {
     "id": 131,
-    "name": "FUT2",
+    "Gname": "FUT2",
     "parent": 122,
     "size": 1500
   },
   {
     "_comment":"T1D 12 snps 11 cytobands",
     "id": 132,
-    "name": "chr4 4q27",
+    "Gname": "chr4 4q27",
     "parent": 10
   },
   {
     "id": 133,
-    "name": "chr6 6q23.3",
+    "Gname": "chr6 6q23.3",
     "parent": 10
   },
   {
     "id": 134,
-    "name": "chr7 7p15.1",
+    "Gname": "chr7 7p15.1",
     "parent": 10
   },
   {
     "id": 135,
-    "name": "chr7 7p12.2",
+    "Gname": "chr7 7p12.2",
     "parent": 10
   },
   {
     "id": 136,
-    "name": "chr11 11p15.5",
+    "Gname": "chr11 11p15.5",
     "parent": 10
   },
   {
     "id": 137,
-    "name": "chr15 15q14",
+    "Gname": "chr15 15q14",
     "parent": 10
   },
   {
     "id": 138,
-    "name": "chr16 16p13.13",
+    "Gname": "chr16 16p13.13",
     "parent": 10
   },
   {
     "id": 139,
-    "name": "chr17 17q21.31",
+    "Gname": "chr17 17q21.31",
     "parent": 10
   },
   {
     "id": 140,
-    "name": "chr19 19q13.32",
+    "Gname": "chr19 19q13.32",
     "parent": 10
   },
   {
     "id": 141,
-    "name": "chr19 19q13.33",
+    "Gname": "chr19 19q13.33",
     "parent": 10
   },
   {
     "id": 142,
-    "name": "chr20 20p13",
+    "Gname": "chr20 20p13",
     "parent": 10
   },
   {
     "id": 143,
-    "name": "AC097533.1",
+    "Gname": "AC097533.1",
     "parent": 132,
     "size": 1500
   },
   {
     "id": 144,
-    "name": "RP11-95M15.1",
+    "Gname": "RP11-95M15.1",
     "parent": 133,
     "size": 1500
   },
   {
     "id": 145,
-    "name": "JAZF1",
+    "Gname": "JAZF1",
     "parent": 134,
     "size": 1500
   },
   {
     "id": 146,
-    "name": "RNU6-1091P",
+    "Gname": "RNU6-1091P",
     "parent": 135,
     "size": 1500
   },
   {
     "id": 147,
-    "name": "TH",
+    "Gname": "TH",
     "parent": 136,
     "size": 1500
   },
   {
     "id": 148,
-    "name": "RASGRP1",
+    "Gname": "RASGRP1",
     "parent": 137,
     "size": 1500
   },
   {
     "id": 149,
-    "name": "CLEC16A",
+    "Gname": "CLEC16A",
     "parent": 138,
     "size": 1500
   },
   {
     "id": 150,
-    "name": "MAPT",
+    "Gname": "MAPT",
     "parent": 139,
     "size": 1500
   },
   {
     "id": 151,
-    "name": "PRKD2",
+    "Gname": "PRKD2",
     "parent": 140,
     "size": 1500
   },
   {
     "id": 153,
-    "name": "RASIP1",
+    "Gname": "RASIP1",
     "parent": 141,
     "size": 1500
   },
   {
     "id": 154,
-    "name": "SIRPB3P",
+    "Gname": "SIRPB3P",
     "parent": 142,
     "size": 1500
   },
   {
     "_comment":"UC 6 snps",
     "id": 155,
-    "name": "chr1 1p36.13",
+    "Gname": "chr1 1p36.13",
     "parent": 11
   },
   {
     "id": 156,
-    "name": "chr1 1q32.1",
+    "Gname": "chr1 1q32.1",
     "parent": 11
   },
   {
     "id": 157,
-    "name": "chr11 11q22.1",
+    "Gname": "chr11 11q22.1",
     "parent": 11
   },
   {
     "id": 158,
-    "name": "chr16 16p12.2",
+    "Gname": "chr16 16p12.2",
     "parent": 11
   },
   {
     "id": 159,
-    "name": "chr19 19q13.32",
+    "Gname": "chr19 19q13.32",
     "parent": 11
   },
   {
     "id": 160,
-    "name": "chr21 21q22.2",
+    "Gname": "chr21 21q22.2",
     "parent": 11
   },
   {
     "id": 161,
-    "name": "OTUD3",
+    "Gname": "OTUD3",
     "parent": 155,
     "size": 1500
   },
   {
     "id": 162,
-    "name": "C1orf106",
+    "Gname": "C1orf106",
     "parent": 156,
     "size": 1500
   },
   {
     "id": 163,
-    "name": "CNTN5",
+    "Gname": "CNTN5",
     "parent": 157,
     "size": 1500
   },
   {
     "id": 164,
-    "name": "PRKCB",
+    "Gname": "PRKCB",
     "parent": 158,
     "size": 1500
   },
   {
     "id": 165,
-    "name": "PRKD2",
+    "Gname": "PRKD2",
     "parent": 159,
     "size": 1500
   },
   {
     "id": 166,
-    "name": "RPL23AP12",
+    "Gname": "RPL23AP12",
     "parent": 160,
     "size": 1500
   },
   {
     "_comment":"Vitiligo 5 snps",
     "id": 167,
-    "name": "chr1 1q23.1",
+    "Gname": "chr1 1q23.1",
     "parent": 12
   },
   {
     "id": 168,
-    "name": "chr4 4p14",
+    "Gname": "chr4 4p14",
     "parent": 12
   },
   {
     "id": 169,
-    "name": "chr5 5q31.3",
+    "Gname": "chr5 5q31.3",
     "parent": 12
   },
   {
     "id": 170,
-    "name": "chr7 7p12.2",
+    "Gname": "chr7 7p12.2",
     "parent": 12
   },
   {
     "id": 171,
-    "name": "chr22 22q13.2",
+    "Gname": "chr22 22q13.2",
     "parent": 12
   },
   {
     "id": 172,
-    "name": "FCRL2",
+    "Gname": "FCRL2",
     "parent": 167,
     "size": 500
   },
   {
     "id": 173,
-    "name": "AC195454.1",
+    "Gname": "AC195454.1",
     "parent": 168,
     "size": 500
   },
   {
     "id": 174,
-    "name": "ARAP3",
+    "Gname": "ARAP3",
     "parent": 169,
     "size": 500
   },
   {
     "id": 175,
-    "name": "AC020743.4",
+    "Gname": "AC020743.4",
     "parent": 170,
     "size": 500
   },
   {
     "id": 176,
-    "name": "Y_RNA",
+    "Gname": "Y_RNA",
     "parent": 171,
     "size": 500
   }

@@ -221,19 +221,19 @@
   },
   {
     "id": 40,
-    "Sname": "RP11-136O12.2",
+    "Gname": "RP11-136O12.2",
     "parent": 37,
     "size": 5
   },
   {
     "id": 41,
-    "Sname": "TEAD1",
+    "Gname": "TEAD1",
     "parent": 38,
     "size": 5
   },
   {
     "id": 42,
-    "Sname": "RP11-81K2.1",
+    "Gname": "RP11-81K2.1",
     "parent": 39,
     "size": 5
   },
@@ -794,13 +794,13 @@
   },
   {
     "id": 143,
-    "Sname": "AC097533.1",
+    "Gname": "AC097533.1",
     "parent": 132,
     "size": 5
   },
   {
     "id": 144,
-    "Sname": "RP11-95M15.1",
+    "Gname": "RP11-95M15.1",
     "parent": 133,
     "size": 5
   },

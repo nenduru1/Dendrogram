@@ -1,0 +1,931 @@
+[
+  {
+    "id": 1,
+    "name": "AD"
+  },
+  {
+    "id": 2,
+    "name": "AR",
+    "parent": 1
+  },
+  {
+    "id": 3,
+    "name": "Asthma",
+    "parent": 1
+  },
+  {
+    "id": 4,
+    "name": "AtD",
+    "parent": 1
+  },
+  {
+    "id": 5,
+    "name": "CD",
+    "parent": 1
+  },
+  {
+    "id": 6,
+    "name": "CrD",
+    "parent": 1
+  },
+  {
+    "id": 7,
+    "name": "Hypothyrodism",
+    "parent": 1
+  },
+  {
+    "id": 8,
+    "name": "RA",
+    "parent": 1
+  },
+  {
+    "id": 9,
+    "name": "SLE",
+    "parent": 1
+  },
+  {
+    "id": 10,
+    "name": "PSC",
+    "parent": 1
+  },
+  {
+    "id": 11,
+    "name": "UC",
+    "parent": 1
+  },
+  {
+    "id": 12,
+    "name": "Vitiligo",
+    "parent": 1
+  },
+
+  {
+    "id": 13,
+    "Sname": "chr1 1q23.3",
+    "parent": 2
+  },
+  {
+    "id": 14,
+    "Sname": "chr7 7p14.1",
+    "parent": 2
+  },
+  {
+    "id": 15,
+    "Sname": "chr9 9q22.2",
+    "parent": 2
+  },
+  {
+    "id": 16,
+    "Sname": "chr19 19p13.11",
+    "parent": 2
+  },
+  {
+    "id": 17,
+    "Gname": "ADAMTS4",
+    "parent": 13,
+    "size": 50
+  },
+  {
+    "id": 18,
+    "Gname": "GPR141",
+    "parent": 14,
+    "size": 25
+  },
+
+  {
+    "id": 19,
+    "Gname": "SYK",
+    "parent": 15,
+    "size": 50
+  },
+
+  {
+    "id": 20,
+    "Gname": "ELL",
+    "parent": 16,
+    "size": 50
+  },
+ 
+  {
+    "_comment":"Asthma 8 snps",
+    "id": 21,
+    "Sname": "chr1 1q23.2",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 22,
+    "Sname": "chr5 5q22.1",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 23,
+    "Sname": "chr5 5q31.3",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 24,
+    "Sname": "chr7 7p15.1",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 25,
+    "Sname": "chr10 10q23.1",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 26,
+    "Sname": "chr11 11q14.2",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 27,
+    "Sname": "chr17 17q21.33",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 28,
+    "Sname": "chr22 22q13.2",
+    "parent": 3,
+    "size": 50
+  },
+  {
+    "id": 29,
+    "Gname": "ADAMTS4",
+    "parent": 21,
+    "size": 50
+  },
+  {
+    "id": 30,
+    "Gname": "AC010468.3",
+    "parent": 22,
+    "size": 50
+  },
+  {
+    "id": 31,
+    "Gname": "HBEGF",
+    "parent": 23,
+    "size": 50
+  },
+  {
+    "id": 32,
+    "Gname": "JAZF1",
+    "parent": 24,
+    "size": 50
+  },
+  {
+    "id": 33,
+    "Gname": "TSPAN14",
+    "parent": 25,
+    "size": 5
+  },
+  {
+    "id": 34,
+    "Gname": "RNU6-560P",
+    "parent": 26,
+    "size": 5
+  },
+  {
+    "id": 35,
+    "Gname": "ZNF652",
+    "parent": 27,
+    "size": 5
+  },
+  {
+    "id": 36,
+    "Gname": "Y_RNA",
+    "parent": 28,
+    "size": 5
+  },
+  {
+    "_comment":"AtD 3 snps",
+    "id": 37,
+    "Sname": "chr8 8q24.13",
+    "parent": 4
+  },
+  {
+    "id": 38,
+    "Sname": "chr11 11p15.3",
+    "parent": 4
+  },
+  {
+    "id": 39,
+    "Sname": "chr17 17q21.33",
+    "parent": 4
+  },
+  {
+    "id": 40,
+    "Gname": "RP11-136O12.2",
+    "parent": 37,
+    "size": 5
+  },
+  {
+    "id": 41,
+    "Gname": "TEAD1",
+    "parent": 38,
+    "size": 5
+  },
+  {
+    "id": 42,
+    "Gname": "RP11-81K2.1",
+    "parent": 39,
+    "size": 5
+  },
+  {
+    "_comment":"CD 3 snps",
+    "id": 43,
+    "Sname": "chr1 1q32.1",
+    "parent": 5
+  },
+  {
+    "id": 44,
+    "Sname": "chr6 6q23.3",
+    "parent": 5
+  },
+  {
+    "id": 45,
+    "Sname": "chr17 17q21.31",
+    "parent": 5
+  },
+  {
+    "id": 46,
+    "Gname": "C1orf106",
+    "parent": 43,
+    "size": 5
+  },
+  {
+    "id": 47,
+    "Gname": "RP11-95M15.1",
+    "parent": 44,
+    "size": 5
+  },
+  {
+    "id": 48,
+    "Gname": "WNT3",
+    "parent": 45,
+    "size": 5
+  },
+
+
+  {
+    "_comment":"CrD 23 snps",
+    "id": 49,
+    "Sname": "chr1 1q32.1",
+    "parent": 6
+  },
+  {
+    "id": 50,
+    "Sname": "chr2 2p21",
+    "parent": 6
+  },
+  {
+    "id": 51,
+    "Sname": "chr2 2q14.3",
+    "parent": 6
+  },
+  {
+    "id": 52,
+    "Sname": "chr4 4p14",
+    "parent": 6
+  },
+  {
+    "id": 53,
+    "Sname": "chr5 5q22.3",
+    "parent": 6
+  },
+  {
+    "id": 54,
+    "Sname": "chr5 5q23.3",
+    "parent": 6
+  },
+  {
+    "id": 55,
+    "Sname": "chr7 7p15.1",
+    "parent": 6
+  },
+  {
+    "id": 56,
+    "Sname": "chr7 7p12.2",
+    "parent": 6
+  },
+  {
+    "id": 57,
+    "Sname": "chr8 8p21.2",
+    "parent": 6
+  },
+  {
+    "id": 58,
+    "Sname": "chr8 8p11.21",
+    "parent": 6
+  },
+  {
+    "id": 59,
+    "Sname": "chr8 8q24.13",
+    "parent": 6
+  },
+  {
+    "id": 60,
+    "Sname": "chr8 8q24.3",
+    "parent": 6
+  },
+  {
+    "id": 61,
+    "Sname": "chr10 10q21.1",
+    "parent": 6
+  },
+  {
+    "id": 62,
+    "Sname": "chr10 10q23.1",
+    "parent": 6
+  },
+  {
+    "id": 63,
+    "Sname": "chr14 14q32.33",
+    "parent": 6
+  },
+  {
+    "id": 64,
+    "Sname": "chr16 16q22.2",
+    "parent": 6
+  },
+  {
+    "id": 65,
+    "Sname": "chr17 17q21.31",
+    "parent": 6
+  },
+  {
+    "id": 66,
+    "Sname": "chr19 19p13.11",
+    "parent": 6
+  },
+  {
+    "id": 67,
+    "Sname": "chr19 19q13.33",
+    "parent": 6
+  },
+  {
+    "id": 68,
+    "Sname": "chr20 20q13.2",
+    "parent": 6
+  },
+  {
+    "id": 69,
+    "Sname": "chr21 21q22.2",
+    "parent": 6
+  },
+  {
+    "id": 70,
+    "Sname": "chr22 22q13.2",
+    "parent": 6
+  },
+  {
+    "id": 71,
+    "Gname": "C1orf106",
+    "parent": 49,
+    "size": 5
+  },
+  {
+    "id": 72,
+    "Gname": "THADA",
+    "parent": 50,
+    "size": 5
+  },
+  {
+    "id": 73,
+    "Gname": "BIN1",
+    "parent": 51,
+    "size": 5
+  },
+  {
+    "id": 74,
+    "Gname": "AC195454.1",
+    "parent": 52,
+    "size": 5
+  },
+  {
+    "id": 75,
+    "Gname": "CCDC112",
+    "parent": 53,
+    "size": 5
+  },
+  {
+    "id": 76,
+    "Gname": "LYRM7",
+    "parent": 54,
+    "size": 5
+  },
+  {
+    "id": 77,
+    "Gname": "JAZF1",
+    "parent": 55,
+    "size": 5
+  },
+  {
+    "id": 78,
+    "Gname": "AC020743.3",
+    "parent": 56,
+    "size": 5
+  },
+  {
+    "id": 79,
+    "Gname": "PTK2B",
+    "parent": 57,
+    "size": 5
+  },
+  {
+    "id": 80,
+    "Gname": "RP11-503E24.3",
+    "parent": 58,
+    "size": 5
+  },
+  {
+    "id": 81,
+    "Gname": "RP11-136O12.2",
+    "parent": 59,
+    "size": 5
+  },
+  {
+    "id": 82,
+    "Gname": "PLEC",
+    "parent": 60,
+    "size": 5
+  },
+  {
+    "id": 83,
+    "Gname": "IPMK",
+    "parent": 61,
+    "size": 5
+  },
+  {
+    "id": 84,
+    "Gname": "TSPAN14",
+    "parent": 62,
+    "size": 5
+  },
+  {
+    "id": 85,
+    "Gname": "SH2D4B",
+    "parent": 62,
+    "size": 5
+  },
+  {
+    "id": 86,
+    "Gname": "TRMT61A",
+    "parent": 63,
+    "size": 5
+  },
+  {
+    "id": 87,
+    "Gname": "DHODH",
+    "parent": 64,
+    "size": 5
+  },
+  {
+    "id": 88,
+    "Gname": "KANSL1",
+    "parent": 65,
+    "size": 5
+  },
+  {
+    "id": 89,
+    "Gname": "ELL",
+    "parent": 66,
+    "size": 5
+  },
+  {
+    "id": 90,
+    "Gname": "RASIP1",
+    "parent": 67,
+    "size": 5
+  },  
+  {
+    "id": 91,
+    "Gname": "CASS4",
+    "parent": 68,
+    "size": 5
+  },
+  {
+    "id": 92,
+    "Gname": "RPL23AP12",
+    "parent": 69,
+    "size": 5
+  },
+  {
+    "id": 93,
+    "Gname": "ZC3H7B",
+    "parent": 70,
+    "size": 5
+  },
+
+  {
+    "_comment":"Hypo 3 snps",
+    "id": 94,
+    "Sname": "chr2 2q24.2",
+    "parent": 7
+  },
+  {
+    "id": 95,
+    "Sname": "chr4 4p14",
+    "parent": 7
+  },
+  {
+    "id": 96,
+    "Sname": "chr11 11p11.2",
+    "parent": 7
+  },
+  {
+    "id": 97,
+    "Gname": "AC009961.3",
+    "parent": 94,
+    "size": 5
+  },
+  {
+    "id": 98,
+    "Gname": "AC195454.1",
+    "parent": 95,
+    "size": 5
+  },
+  {
+    "id": 99,
+    "Gname": "SPI1",
+    "parent": 96,
+    "size": 5
+  },
+
+  {
+    "_comment":"RA 7 snps",
+    "id": 100,
+    "Sname": "chr1 1q23.1",
+    "parent": 8
+  },
+  {
+    "id": 101,
+    "Sname": "chr1 1q32.1",
+    "parent": 8
+  },
+  {
+    "id": 102,
+    "Sname": "chr6 6p21.31",
+    "parent": 8
+  },
+  {
+    "id": 103,
+    "Sname": "chr6 6q23.3",
+    "parent": 8
+  },
+  {
+    "id": 104,
+    "Sname": "chr7 7p15.1",
+    "parent": 8
+  },
+  {
+    "id": 105,
+    "Sname": "chr10 10q23.1",
+    "parent": 8
+  },
+  {
+    "id": 106,
+    "Sname": "chr11 11q24.1",
+    "parent": 8
+  },
+  {
+    "id": 107,
+    "Gname": "RP11-367J7.4",
+    "parent": 100,
+    "size": 5
+  },
+  {
+    "id": 108,
+    "Gname": "C1orf106",
+    "parent": 101,
+    "size": 5
+  },
+  {
+    "id": 109,
+    "Gname": "SNRPC",
+    "parent": 102,
+    "size": 5
+  },
+  {
+    "id": 110,
+    "Gname": "RP11-95M15.1",
+    "parent": 103,
+    "size": 5
+  },
+  {
+    "id": 111,
+    "Gname": "JAZF1",
+    "parent": 104,
+    "size": 5
+  },
+  {
+    "id": 112,
+    "Gname": "TSPAN14",
+    "parent": 105,
+    "size": 5
+  },
+  {
+    "id": 113,
+    "Gname": "LINC01059",
+    "parent": 106,
+    "size": 5
+  },
+  {
+    "_comment":"SLE 9 snps",
+    "id": 114,
+    "Sname": "chr2 2p14",
+    "parent": 9
+  },
+  {
+    "id": 115,
+    "Sname": "chr2 2q21.3",
+    "parent": 9
+  },
+  {
+    "id": 116,
+    "Sname": "chr4 4p15.33",
+    "parent": 9
+  },
+  {
+    "id": 117,
+    "Sname": "chr5 5q33.1",
+    "parent": 9
+  },
+  {
+    "id": 118,
+    "Sname": "chr6 6q23.3",
+    "parent": 9
+  },
+  {
+    "id": 119,
+    "Sname": "chr10 10q21.2",
+    "parent": 9
+  },
+  {
+    "id": 120,
+    "Sname": "chr16 16p11.2",
+    "parent": 9
+  },
+  {
+    "id": 121,
+    "Sname": "chr17 17q21.31",
+    "parent": 9
+  },
+  {
+    "id": 122,
+    "Sname": "chr19 19q13.33",
+    "parent": 9
+  },
+  {
+    "id": 123,
+    "Gname": "SPRED2",
+    "parent": 114,
+    "size": 5
+  },
+  {
+    "id": 124,
+    "Gname": "MGAT5",
+    "parent": 115,
+    "size": 5
+  },
+  {
+    "id": 125,
+    "Gname": "AC006296.1",
+    "parent": 116,
+    "size": 5
+  },
+  {
+    "id": 126,
+    "Gname": "TNIP1",
+    "parent": 117,
+    "size": 5
+  },
+  {
+    "id": 127,
+    "Gname": "RP11-95M15.1",
+    "parent": 118,
+    "size": 5
+  },
+  {
+    "id": 128,
+    "Gname": "CCDC6",
+    "parent": 119,
+    "size": 5
+  },
+  {
+    "id": 129,
+    "Gname": "ITGAM",
+    "parent": 120,
+    "size": 5
+  },
+  {
+    "id": 130,
+    "Gname": "PLEKHM1",
+    "parent": 121,
+    "size": 5
+  },
+  {
+    "id": 131,
+    "Gname": "FUT2",
+    "parent": 122,
+    "size": 5
+  },
+  {
+    "_comment":"PSC 6 snps 6 cytobands",
+    "id": 132,
+    "Sname": "chr2 2p22.2",
+    "parent": 10
+  },
+  {
+    "id": 133,
+    "Sname": "chr6 6p12.3",
+    "parent": 10
+  },
+  {
+    "id": 134,
+    "Sname": "chr12 12q24.31",
+    "parent": 10
+  },
+  {
+    "id": 135,
+    "Sname": "chr19 19q13.32",
+    "parent": 10
+  },
+  {
+    "id": 136,
+    "Sname": "chr19 19q13.33",
+    "parent": 10
+  },
+  {
+    "id": 137,
+    "Sname": "chr21 21q22.2",
+    "parent": 10
+  },
+  
+  {
+    "id": 143,
+    "Gname": "PRKD3",
+    "parent": 132,
+    "size": 5
+  },
+  {
+    "id": 144,
+    "Gname": "RP11-550C4.6",
+    "parent": 133,
+    "size": 5
+  },
+  {
+    "id": 145,
+    "Gname": "ABCB9",
+    "parent": 134,
+    "size": 5
+  },
+  {
+    "id": 146,
+    "Gname": "DACT3-AS1",
+    "parent": 135,
+    "size": 5
+  },
+  {
+    "id": 147,
+    "Gname": "FUT2",
+    "parent": 136,
+    "size": 5
+  },
+  {
+    "id": 148,
+    "Gname": "RPL23AP12",
+    "parent": 137,
+    "size": 5
+  },
+  
+  {
+    "_comment":"UC 6 snps",
+    "id": 155,
+    "Sname": "chr1 1p36.13",
+    "parent": 11
+  },
+  {
+    "id": 156,
+    "Sname": "chr1 1q32.1",
+    "parent": 11
+  },
+  {
+    "id": 157,
+    "Sname": "chr11 11q22.1",
+    "parent": 11
+  },
+  {
+    "id": 158,
+    "Sname": "chr16 16p12.2",
+    "parent": 11
+  },
+  {
+    "id": 159,
+    "Sname": "chr19 19q13.32",
+    "parent": 11
+  },
+  {
+    "id": 160,
+    "Sname": "chr21 21q22.2",
+    "parent": 11
+  },
+  {
+    "id": 161,
+    "Gname": "OTUD3",
+    "parent": 155,
+    "size": 5
+  },
+  {
+    "id": 162,
+    "Gname": "C1orf106",
+    "parent": 156,
+    "size": 5
+  },
+  {
+    "id": 163,
+    "Gname": "CNTN5",
+    "parent": 157,
+    "size": 5
+  },
+  {
+    "id": 164,
+    "Gname": "PRKCB",
+    "parent": 158,
+    "size": 5
+  },
+  {
+    "id": 165,
+    "Gname": "PRKD2",
+    "parent": 159,
+    "size": 5
+  },
+  {
+    "id": 166,
+    "Gname": "RPL23AP12",
+    "parent": 160,
+    "size": 5
+  },
+  {
+    "_comment":"Vitiligo 5 snps",
+    "id": 167,
+    "Sname": "chr1 1q23.1",
+    "parent": 12
+  },
+  {
+    "id": 168,
+    "Sname": "chr4 4p14",
+    "parent": 12
+  },
+  {
+    "id": 169,
+    "Sname": "chr5 5q31.3",
+    "parent": 12
+  },
+  {
+    "id": 170,
+    "Sname": "chr7 7p12.2",
+    "parent": 12
+  },
+  {
+    "id": 171,
+    "Sname": "chr22 22q13.2",
+    "parent": 12
+  },
+  {
+    "id": 172,
+    "Gname": "FCRL2",
+    "parent": 167,
+    "size": 50
+  },
+  {
+    "id": 173,
+    "Gname": "AC195454.1",
+    "parent": 168,
+    "size": 500
+  },
+  {
+    "id": 174,
+    "Gname": "ARAP3",
+    "parent": 169,
+    "size": 500
+  },
+  {
+    "id": 175,
+    "Gname": "AC020743.4",
+    "parent": 170,
+    "size": 500
+  },
+  {
+    "id": 176,
+    "Gname": "Y_RNA",
+    "parent": 171,
+    "size": 500
+  }
+]
